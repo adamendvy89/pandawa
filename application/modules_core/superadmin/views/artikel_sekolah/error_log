@@ -1,0 +1,1 @@
+[31-Mar-2015 09:13:06 UTC] PHP Fatal error:  Call to undefined function form_open() in /home/k0589339/public_html/application/modules_core/superadmin/views/artikel_sekolah/bg_home.php on line 10

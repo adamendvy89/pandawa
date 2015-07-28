@@ -1,0 +1,2 @@
+[31-Mar-2015 09:13:06 UTC] PHP Fatal error:  Using $this when not in object context in /home/k0589339/public_html/application/modules_core/superadmin/views/galeri_sekolah/bg_detail.php on line 9
+[31-Mar-2015 09:13:06 UTC] PHP Fatal error:  Call to undefined function form_open() in /home/k0589339/public_html/application/modules_core/superadmin/views/galeri_sekolah/bg_home.php on line 10

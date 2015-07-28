@@ -1,0 +1,1 @@
+[31-Mar-2015 09:13:21 UTC] PHP Fatal error:  Using $this when not in object context in /home/k0589339/public_html/application/views/blue-clouds/admin_dinas/bg_home.php on line 3

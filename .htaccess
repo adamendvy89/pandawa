@@ -1,0 +1,17 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*)$ index.php/$1
+
+</IfModule>
+RewriteCond %{HTTP_HOST} ^transfer\-factor\-surabaya\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.transfer\-factor\-surabaya\.com$
+RewriteRule ^/?$ "http\:\/\/www\.pandawamultitech\.co\.id" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^pandawamultitech\.co\.id$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.pandawamultitech\.co\.id$
+RewriteRule ^voip$ "http\:\/\/192\.168\.0\.13\/" [R=301,L]
+

@@ -1,0 +1,1 @@
+[31-Mar-2015 09:13:18 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/k0589339/public_html/application/views/blue-clouds/bidang/bg_dashboard.php on line 8

@@ -1,0 +1,2 @@
+[31-Mar-2015 09:13:12 UTC] PHP Fatal error:  Using $this when not in object context in /home/k0589339/public_html/application/modules_core/superadmin/views/routing_pages/bg_input.php on line 9
+[31-Mar-2015 09:13:13 UTC] PHP Fatal error:  Using $this when not in object context in /home/k0589339/public_html/application/modules_core/superadmin/views/routing_pages/bg_home.php on line 9

@@ -1,0 +1,4 @@
+[31-Mar-2015 09:13:14 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/k0589339/public_html/application/views/blue-clouds/bg_home.php on line 8
+[31-Mar-2015 09:13:17 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/k0589339/public_html/application/views/blue-clouds/bg_header.php on line 33
+[31-Mar-2015 09:13:23 UTC] PHP Fatal error:  Using $this when not in object context in /home/k0589339/public_html/application/views/blue-clouds/bg_breadcumb.php on line 2
+[31-Mar-2015 09:13:23 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/k0589339/public_html/application/views/blue-clouds/bg_footer.php on line 16

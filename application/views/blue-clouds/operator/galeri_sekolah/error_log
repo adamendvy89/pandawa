@@ -1,0 +1,2 @@
+[31-Mar-2015 09:13:15 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/k0589339/public_html/application/views/blue-clouds/operator/galeri_sekolah/bg_input.php on line 6
+[31-Mar-2015 09:13:16 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/k0589339/public_html/application/views/blue-clouds/operator/galeri_sekolah/bg_home.php on line 3

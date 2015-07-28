@@ -1,0 +1,2 @@
+[31-Mar-2015 09:13:16 UTC] PHP Fatal error:  Call to undefined function form_open() in /home/k0589339/public_html/application/views/blue-clouds/operator/data_siswa/bg_input.php on line 6
+[31-Mar-2015 09:13:16 UTC] PHP Fatal error:  Call to undefined function form_open() in /home/k0589339/public_html/application/views/blue-clouds/operator/data_siswa/bg_home.php on line 6
